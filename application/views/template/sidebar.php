@@ -49,6 +49,14 @@
             </a>
           </li>
           <li class="nav-item">
+            <a href="<?php echo base_url('penilaian') ?>" class="nav-link">
+              <i class="nav-icon fas fa-database"></i>
+              <p>
+                Penilaian
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-database"></i>
               <p>
